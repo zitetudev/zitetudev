@@ -18,8 +18,6 @@ My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, CSS3, H
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
   <string>zitetu#9433</string>
   
-   </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>zitetu</string> </br>
 </details> 
   
 <br/>
